@@ -47,7 +47,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 ```
 
 ## Output Screenshot
-*(Insert screenshot here — app running on device showing "Hello Shubham!")*
+*(WhatsApp Image 2026-07-25 at 1.08.55 PM.jpeg)*
 
 ## Test Cases
 
