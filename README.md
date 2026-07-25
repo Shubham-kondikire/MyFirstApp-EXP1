@@ -46,9 +46,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 }
 ```
 
-## Output Screenshot
-*(WhatsApp Image 2026-07-25 at 1.08.55 PM.jpeg)*
-
 ## Test Cases
 
 | # | Test Case | Expected Result | Actual Result | Screenshot |
