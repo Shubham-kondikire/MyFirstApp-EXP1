@@ -59,7 +59,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 
 ## Author
 - **Name:** Shubham
-- **USN:** *(fill in your USN)*
+- **USN:** *25MCAR0102*
 - **GitHub:** [github.com/Shubham-kondikire](https://github.com/Shubham-kondikire)
 
 ## Reference
